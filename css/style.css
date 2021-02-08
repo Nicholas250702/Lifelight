@@ -1,0 +1,90 @@
+body{
+	margin: 0px;
+	background-color: rgb(230, 230, 230);
+}
+footer{
+	background-color: grey;
+}
+li{
+	color: black;
+	margin-bottom: 7px;
+}
+h1{
+	text-align: center;
+	margin-top: 40px;
+	font-family: "ayuthaya", cursive;
+	font-size: 40px;
+}
+h2{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+ul{
+	padding-left: none;
+}
+img{
+	height: 250px;
+	display: block;
+	margin: 10px auto;
+}
+.sorted {
+	list-style: none;
+	display:inline;
+	padding-top: 40px;
+	padding left: 80px;
+	padding-right: 80px;
+	padding-bottom: 40px;
+	font-size: 30px;
+	transition: 0.2s;
+}
+.sorted li{
+	color: white;
+	margin-bottom: 5px;
+	
+}
+.menu{
+	text-align: center;
+	background-color: grey;
+	margin: 0px;
+	padding-top: 10px;
+	padding-bottom: 20px
+	box-shadow: 0px 10px 30px grey;
+}
+.lists{
+	width: auto;
+	padding-left: 0px;
+	margin: 0px;
+}
+#logo{
+	font-family: "zapfino", cursive;
+border-right-color: 
+}
+.footdiv{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 100px;
+	margin-left:265px;
+}
+.social{
+	display: inline;
+
+}
+.Lamps{
+	display: inline-block;
+	margin: 50px
+	width: 300px;
+	text-align: center;
+	padding-top: 25px
+	border-radius: 5px;
+	transition: 0.5s;
+	margin-left: 120px;
+}
+
+
+
+#facebook-margin{
+	margin-right: 18px;
+}
